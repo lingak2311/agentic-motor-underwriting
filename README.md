@@ -41,7 +41,7 @@ This project demonstrates an intelligent motor insurance underwriting system usi
 
 - **Platform**: Databricks with Unity Catalog
 - **AI/ML**: LangChain, Meta-Llama-3.1-70B-Instruct
-- **Data**: Unity Catalog tables for quotes, claims, property data
+- **Data**: Unity Catalog tables for quotes, claims, and property data
 - **Orchestration**: Databricks Asset Bundles (DABs)
 - **Infrastructure**: Terraform for cloud resources
 - **CI/CD**: GitHub Actions
@@ -73,7 +73,7 @@ agentic-motor-underwriting/
 ### Prerequisites
 
 - **Databricks CLI** v0.218.0+
-- **Python** 3.9+
+- **Python** 3.12.x+
 - **Terraform** (for infrastructure deployment)
 - **Git** for version control
 
