@@ -1,8 +1,5 @@
 # Agentic Motor Insurance Underwriting
 
-[![CI/CD](https://github.com/lingak2311/agentic-motor-underwriting/actions/workflows/ci.yml/badge.svg)](https://github.com/lingak2311/agentic-motor-underwriting/actions/workflows/ci.yml)
-[![Deploy](https://github.com/lingak2311/agentic-motor-underwriting/actions/workflows/deploy.yml/badge.svg)](https://github.com/lingak2311/agentic-motor-underwriting/actions/workflows/deploy.yml)
-
 A production-ready agentic AI system for motor insurance underwriting, built on Databricks with best practices for CI/CD, testing, and deployment.
 
 ## 🚀 Overview
